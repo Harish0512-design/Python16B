@@ -1,0 +1,18 @@
+Admin123$
+ vpc - 562
+
+security group:
+--------------------
+'launch-wizard-2'
+
+
+IAM Role
+EC2 (VPC - inbound, outbound)
+RDS
+S3
+EC2-RDS -connect
+Tabels data insert
+DMS replication instance
+endpoints (src, target)
+Migration task create
+execute
